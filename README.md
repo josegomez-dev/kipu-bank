@@ -4,9 +4,6 @@ A simple and secure Ethereum-based vault that allows users to deposit and withdr
 
 View Contract on EtherScan: https://sepolia.etherscan.io/address/0xe79fb757382d52e0a2b781d54ebe6eb65ad096a1
 
-View on EtherScan: https://sepolia.etherscan.io/tx/0x5539da5254fcf4c40edecfd84063eaa7a9349b882f1a727ce323bead4c7615d6
-Contract Address: 0xe79fb757382d52e0a2b781d54ebe6eb65ad096a1
-
 ---
 ## 📌 Overview
 
